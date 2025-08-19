@@ -27,14 +27,58 @@
 
 ### 🛠️ skills
 
-**Programming:** Python, C, Java, SQL, ECL  
-**Machine Learning & AI:** ML, DL, NLP, Neural Networks, Computer Vision, Generative AI  
-**Frameworks/Libraries:** TensorFlow, Keras, PyTorch, Scikit-learn, NumPy, Pandas, Matplotlib  
-**Web & App Development:** Django, Flask, Angular, NodeJS, React.js  
-**Databases:** PostgreSQL, MySQL, RDBMS  
-**Cloud & DevOps:** Docker, Kubernetes, AWS EC2, AWS Lambda, Spark, Hadoop, CI/CD  
-**Tools:** Postman, Git, GitHub, Git Actions, Jupyter Notebooks  
-**Core CS:** Data Structures & Algorithms (DSA), DAA, Data Visualization  
+#### 👩‍💻 Programming & CS
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/ECL-FF6F00?style=for-the-badge&logoColor=white" height="28"/>
+</p>
+
+#### 🤖 Machine Learning & AI
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/NLP-FF9800?style=for-the-badge&logo=ai&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-1976D2?style=for-the-badge&logo=opencv&logoColor=white" height="28"/>
+</p>
+
+#### 🌐 Web & App Development
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="NodeJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+</p>
+
+#### 🗄️ Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+</p>
+
+#### ☁️ Cloud & DevOps
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Hadoop-FFB500?style=for-the-badge&logo=apachehadoop&logoColor=black" height="28"/>
+  <img src="https://img.shields.io/badge/CI/CD-4CAF50?style=for-the-badge&logo=githubactions&logoColor=white" height="28"/>
+</p>
+
+#### 🛠️ Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Data Structures & Algorithms-006400?style=for-the-badge&logo=codeforces&logoColor=white" height="28"/>
+</p> 
 
 ---
 
