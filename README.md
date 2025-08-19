@@ -3,7 +3,7 @@
 <h1 align="left">hey, i'm Unnathi 👋</h1>
 
 <p>
-  <em>B.Tech CSE student @ RV University • curious mind building useful things • powered by creativity ⚡</em>
+  <em>B.Tech CSE @ RV University • aspiring AI/ML engineer • building intelligent systems powered by data ⚡</em>
 </p>
 
 <!-- quick identity badges -->
@@ -21,21 +21,48 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/unnathi-c-s-3498502a1/)  
 - 🌍 [Portfolio Website](https://unnathics.my.canva.site/)  
 - 🧩 [LeetCode](https://leetcode.com/u/Unnathi_CS/)  
-- 📫 reach me at: 65.unnathics@gmail.com  
+- 📫 reach me at: **65.unnathics@gmail.com**  
 
 ---
 
-### 🛠️ toolbelt
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" alt="python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" alt="java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" alt="js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" alt="react"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" alt="node"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" alt="postgres"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" alt="mongo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" alt="git"/>
-</p>
+### 🛠️ skills
+
+**Programming:** Python, C, Java, SQL, ECL  
+**Machine Learning & AI:** ML, DL, NLP, Neural Networks, Computer Vision, Generative AI  
+**Frameworks/Libraries:** TensorFlow, Keras, PyTorch, Scikit-learn, NumPy, Pandas, Matplotlib  
+**Web & App Development:** Django, Flask, Angular, NodeJS, React.js  
+**Databases:** PostgreSQL, MySQL, RDBMS  
+**Cloud & DevOps:** Docker, Kubernetes, AWS EC2, AWS Lambda, Spark, Hadoop, CI/CD  
+**Tools:** Postman, Git, GitHub, Git Actions, Jupyter Notebooks  
+**Core CS:** Data Structures & Algorithms (DSA), DAA, Data Visualization  
+
+---
+
+### 💼 experience
+- **Computer Vision Intern @ Gridley AI** *(Jul 2025 – Present)*  
+  - Working on CV models and pipelines with a focus on practical applications.  
+  - Leveraging Python + Deep Learning frameworks to solve vision-based problems.  
+
+- **AI/ML & Data Analyst Intern @ CarbonSustain, Berkeley** *(Jan – Jun 2025)*  
+  - PostgreSQL + Python for data aggregation & analysis.  
+  - Built front-end & back-end features (Angular + NodeJS).  
+  - Integrated APIs, improving efficiency by **90%**.  
+
+- **AI/ML Intern @ Dhee Center of AIML, Bengaluru** *(Jun – Dec 2024)*  
+  - Engineered deep learning models (Python + TensorFlow).  
+  - Built a **Facial Emotion Recognition** system using CNNs + Haar Cascades.  
+  - Achieved **64.38% accuracy** without GPU support.  
+
+---
+
+### 🏆 achievements
+- 🥈 **HPCC Hackathon USA** – 2nd Place  
+- 🎖️ **Top 5% rank holder** at RV University  
+- 🏅 Winner – *Building Applications with Python* contest  
+- 🎯 Finalist/Participant in:  
+  - Google Girl Hackathon, Flipkart Runway, IBM-Z Datathon, BNY Mellon Code Divas  
+  - Smart India Hackathon, Google Solution Challenge 2025  
+  - GSSoC, Hackmatrix @ IIT Patna, KodeKurukshetra @ Vishnu Institute of Technology  
 
 ---
 
@@ -43,6 +70,15 @@
 
 <!-- START_SECTION:repos -->
 <!-- END_SECTION:repos -->
+
+*(Auto-updating: latest 5 repos refresh daily ✨)*
+
+Some featured projects from my journey:
+- [Malware Detection using AI](https://github.com/UnnathiCS/Malware_detection_AI) – ML pipeline for detecting malicious PDFs  
+- [Crop Recommendation (IEEE Paper)](https://ieeexplore.ieee.org/document/10763179) – sustainable farming solution  
+- [Facial Emotion Recognition](https://github.com/UnnathiCS/FACIAL_EMOTION_RECOGNITION) – CNNs + Haar cascades  
+- [IT Helpdesk System](https://github.com/UnnathiCS/it-helpdesk) – support system for IT employees  
+- [AI Nutrition Recommender](#) – affordable health-focused recommendation system  
 
 ---
 
