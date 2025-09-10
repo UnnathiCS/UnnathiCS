@@ -1,6 +1,6 @@
 <!-- Profile README for Unnathi C S -->
 
-<h1 align="left">hey, i'm Unnathi 👋</h1>
+<h1 align="left">hey, i'm Unnathi C S👋</h1>
 
 <p>
   <em>B.Tech CSE @ RV University • aspiring AI/ML engineer • building intelligent systems powered by data ⚡</em>
